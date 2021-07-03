@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "如何合理设计交易策略"
+date: 2021-07-03
 ---
 
 
