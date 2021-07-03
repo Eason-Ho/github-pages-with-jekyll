@@ -9,4 +9,4 @@ twitter_username: heyuc93 # DO NOT include the @ character, or else the build wi
 github_username:  Eason-Ho # DO NOT include the @ character, or else the build will fail!
 
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage        
