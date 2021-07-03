@@ -1,5 +1,5 @@
 ---
-title: "如何合理设计交易策略"
+title: "my-first-blog-post"
 date: 2021-07-03
 ---
 
